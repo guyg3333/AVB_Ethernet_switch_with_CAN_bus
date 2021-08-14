@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSZ8567STXI-TR
+D IC ETHERNET SWITCH 7PORT 128TQFP
+F http://www.mouser.com/datasheet/2/268/00002391A-1108116.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AVB-switch-with-Can-gateway-rescue)(type Legacy)(uri "${KIPRJMOD}/AVB switch with Can gateway-rescue.lib")(options "")(descr ""))
+)

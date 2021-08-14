@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AVB switch with Can gateway")(type KiCad)(uri "${KIPRJMOD}/AVB switch with Can gateway.pretty")(options "")(descr ""))
+)
